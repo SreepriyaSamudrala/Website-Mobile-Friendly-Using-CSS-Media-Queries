@@ -4,6 +4,6 @@ The task involved converting a desktop-only webpage into a mobile-friendly layou
 
 
 
-![image alt](https://github.com/user-attachments/assets/41d15628-3065-47df-a200-2c48bb8231ef)
+![video alt](https://github.com/user-attachments/assets/41d15628-3065-47df-a200-2c48bb8231ef)
 
 
